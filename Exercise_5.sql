@@ -10,7 +10,6 @@ from   Products
 where  UnitsInStock < 17;
 
 --3
-
 select  UnitPrice, ProductName, Productid
 from    Products
 where   UnitPrice <=30;
